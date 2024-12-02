@@ -1,7 +1,10 @@
-# Release Changelogs:
-- [1.5.1](https://changes.cider.sh/releases/1.5.1)
+<div align="center">
+<picture>
+    <img src=".github/icon.png" width="128px">
+</picture>
+</div>
+<h1 align="center">
+Cider Changelogs
+</h1>
 
-# Cider Audio Lab Changelogs:
-- [1.0.0](https://changes.cider.sh/audiolab/1.0.0)
-
-*These changelogs are rarely updated, please don't expect a constant changelog for the application.*
+This repository contains the source code for the Cider Changelogs. These changelogs describe changes made to the app and various other areas of development.
